@@ -9,7 +9,7 @@
 ```
 sudo apt update
 sudo apt install avrdude git
-git clone https://github.com/MrHDR/RaspberryPi_ISP
+git clone https://github.com/HDR/RaspberryPi_ISP
 cd RaspberryPi_ISP
 cp avrdude_gpio.conf ~/avrdude_gpio.conf
 ```
